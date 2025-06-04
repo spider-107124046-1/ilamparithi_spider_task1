@@ -7,16 +7,16 @@
 ## Repository Overview
 
 ### Selected Tasks
-1. [Cybersecurity](common/cybersecurity/)
-2. [Computer Networking](common/networking/)
+1. [Cybersecurity](common/cybersecurity/README.md)
+2. [Computer Networking](common/networking/README.md)
 3. [Developer Operations (DevOps)](common/devops/)
 4. **Domain Specific Task:** [DevOps](domain_specific/devops/)
 
-### [Cybersecurity - Dorking with Google](common/cybersecurity/)
+### [Cybersecurity - Dorking with Google](common/cybersecurity/README.md)
 
 Using search operators like `site:`, `inurl:`, `intitle:`, `intext:`, `filetype:`, `ext:`, `AND`, `OR`, `-`, and `" "`, we can run deep and targeted searches on certain websites, in the intention of finding accidentally leaked files/endpoints/information. This is called **Dorking**. For educational purposes, we take [tesla.com](https;//tesla.com) and list all (potentially) unintentionally public files and links.
 
-### [Computer Networking - Packet Capture Analysis](common/networking/)
+### [Computer Networking - Packet Capture Analysis](common/networking/README.md)
 
 `wireshark` is a free and open-source (🎉) utility that can capture all packets that are sent and received by the device, using a packet capture library installed on the system. These can be saved to a file called packet capture (`.pcap`) which can be used for later analysis, or distribution. One such file is given to us to be analysed. This repo contains the answers to the questions asked in the problem definition.
 
@@ -30,6 +30,3 @@ A bash script named vault_sweeper that can:
 - Generate secure output files from valid data.
 
 ### [View Domain Specific Task for Developer Operations - Dockerization of a Fullstack Project](domain_specific/devops/)
-
-
-
