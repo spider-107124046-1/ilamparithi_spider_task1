@@ -104,7 +104,7 @@ The notable results from partners.tesla.com and toolbox.tesla.com are properly g
 
 `site:feedback.tesla.com` gives [one feedback form](https://feedback.tesla.com/jfe/form/SV_ea4r6Mwcc3aXVBk) and the rest lead to the same identity provider select link shown above.
 
-`site:tesla.com intitle:"login"`, `site:tesla.com intitle:"panel"`, `site:tesla.com inurl:"panel"`, `site:tesla.com intitle:"portal"`, `site:tesla.com inurl:"portal"` all yield results already seen/irreleveant results.
+`site:tesla.com intitle:"login"`, `site:tesla.com intitle:"panel"`, `site:tesla.com inurl:"panel"`, `site:tesla.com intitle:"portal"`, `site:tesla.com inurl:"portal"` all yield results already seen/irrelevant results.
 
 `site:tesla.com inurl:dashboard` fetches some unique endpoints:
 
