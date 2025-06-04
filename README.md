@@ -1,4 +1,4 @@
-# Spider Common Task Submission for Task 1
+# Spider Task 1 Submission
 
 ## Ilamparithi M | 107124046 | EEE
 
