@@ -171,7 +171,7 @@ These PDFs do not seem to have personally identifiable information other than th
 
 ![image](https://github.com/user-attachments/assets/06d793af-b871-491c-a851-48de3c8ab087)
 
-`site:tesla.com "stacktrace"` - 0 results.
+`site:tesla.com "stacktrace" OR "traceback"` - 0 results.
 
 `site:tesla.com "promise"` (result of an asynchronous operation in js) - very mysterious result that redirects to tesla account login page: [https://tesla.com/en_NZ/file/son-man-promise-familyjpg](https://tesla.com/en_NZ/file/son-man-promise-familyjpg)
 
